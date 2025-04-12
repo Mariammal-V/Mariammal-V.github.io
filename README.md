@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gina!
+# 👋 Hi, I'm Mariammal V!
 
 🎓 A Computer Science Engineering student passionate about coding, problem-solving, and building real-world projects using Machine Learning, Web Development, and Automation.
 
